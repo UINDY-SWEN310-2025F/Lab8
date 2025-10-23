@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "string.h": "c",
+        "unistd.h": "c",
+        "common_threads.h": "c"
+    }
+}
